@@ -7,5 +7,9 @@
 		<li>list4</li>
 		<li>list5</li>
 	</ul>
+
+	<module-one>
+        <div>ffgfggg</div>
+    </module-one>
 </body>
 </html>
