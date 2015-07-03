@@ -8,12 +8,5 @@
 		<li>list5</li>
 	</ul>
 
-	<module-one>
-        <div>sasdddd</div>
-    </module-one>
-
-    <module-two>
-      <div>ffgfggg</div>
-    </module-two>
 </body>
 </html>
